@@ -1,0 +1,37 @@
+.pic{
+    background-color: #e0ffcd;
+    text-align: center;    
+}
+.hello{
+    text-align: center;
+    padding-top: 200px;
+}
+#me{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    position: relative;
+}
+.skills{
+    padding-top: 200px;
+    text-align: center;
+}
+.cont{
+    display: grid;
+    grid-template-columns: 450px 300px;
+    grid-template-rows: 300px 300px;
+    justify-content: center;
+}
+.l{
+    text-align: left;
+}
+.touch{
+    padding-top: 50px;
+    text-align: center;
+}
+.touch h4{
+    padding-bottom: 50px;
+}
+.footer{
+    text-align: center;
+}
